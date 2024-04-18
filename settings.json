@@ -1,0 +1,13 @@
+{
+  "startUrl": "https://example.com",
+  "elementSelector": ".your-element-selector",
+  "unwantedElementSelector": ".unwanted-element",
+  "nextPageSelector": ".next-page-button",
+  "urlContainerSelector": "#url-container",
+  "shouldBrowseNextPage": true,
+  "outputFormat": "pdf",
+  "minOpeningDelay": 2000,
+  "maxOpeningDelay": 5000,
+  "minNextPageDelay": 3000,
+  "maxNextPageDelay": 6000
+}
